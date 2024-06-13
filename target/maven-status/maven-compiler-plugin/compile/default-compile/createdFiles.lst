@@ -1,0 +1,5 @@
+pageobjects\HomePage.class
+pageobjects\ProductPage.class
+pageobjects\SearchResultPage.class
+pageobjects\BasePage.class
+pageobjects\BasketPage.class
